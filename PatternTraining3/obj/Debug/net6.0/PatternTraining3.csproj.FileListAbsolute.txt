@@ -1,0 +1,15 @@
+C:\Users\black\source\repos\PatternTraining1\PatternTraining3\bin\Debug\net6.0\PatternTraining3.exe
+C:\Users\black\source\repos\PatternTraining1\PatternTraining3\bin\Debug\net6.0\PatternTraining3.deps.json
+C:\Users\black\source\repos\PatternTraining1\PatternTraining3\bin\Debug\net6.0\PatternTraining3.runtimeconfig.json
+C:\Users\black\source\repos\PatternTraining1\PatternTraining3\bin\Debug\net6.0\PatternTraining3.dll
+C:\Users\black\source\repos\PatternTraining1\PatternTraining3\bin\Debug\net6.0\PatternTraining3.pdb
+C:\Users\black\source\repos\PatternTraining1\PatternTraining3\obj\Debug\net6.0\PatternTraining3.csproj.AssemblyReference.cache
+C:\Users\black\source\repos\PatternTraining1\PatternTraining3\obj\Debug\net6.0\PatternTraining3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\black\source\repos\PatternTraining1\PatternTraining3\obj\Debug\net6.0\PatternTraining3.AssemblyInfoInputs.cache
+C:\Users\black\source\repos\PatternTraining1\PatternTraining3\obj\Debug\net6.0\PatternTraining3.AssemblyInfo.cs
+C:\Users\black\source\repos\PatternTraining1\PatternTraining3\obj\Debug\net6.0\PatternTraining3.csproj.CoreCompileInputs.cache
+C:\Users\black\source\repos\PatternTraining1\PatternTraining3\obj\Debug\net6.0\PatternTraining3.dll
+C:\Users\black\source\repos\PatternTraining1\PatternTraining3\obj\Debug\net6.0\refint\PatternTraining3.dll
+C:\Users\black\source\repos\PatternTraining1\PatternTraining3\obj\Debug\net6.0\PatternTraining3.pdb
+C:\Users\black\source\repos\PatternTraining1\PatternTraining3\obj\Debug\net6.0\PatternTraining3.genruntimeconfig.cache
+C:\Users\black\source\repos\PatternTraining1\PatternTraining3\obj\Debug\net6.0\ref\PatternTraining3.dll
